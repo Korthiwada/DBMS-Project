@@ -1,0 +1,20 @@
+Income_Tax,0,3,0,0,250000
+GPF,0,0,1,0,0
+Festival_Adv,450,1,0,0,0
+HBA,0,0,1,0,0
+Motor_Adv,0,0,1,0,0
+Houseload_Adv,0,0,1,0,0
+Professional_Tax,200,4,0,200000,300000
+Donation,0,0,1,0,0
+Telephone_Charge,0,0,1,0,0
+Excess_Pay_Recovery,0,0,1,0,0
+GSLIS,700,1,0,0,0
+Revenue_Stamp,0,0,1,0,0
+CPF_Club,350,1,0,0,0
+IIITG_Club,75,1,0,0,0
+LIC,0,0,1,0,0
+Income_Tax  ,5,3,0,250000,500000
+Income_Tax  ,20,3,0,500000,1000000
+Income_Tax  ,30,3,0,100000,10000000
+Professional_Tax,300,4,0,300000,500000
+Professional_Tax,500,4,0,500000,1000000
